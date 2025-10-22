@@ -36,5 +36,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 ---
-
-⭐ *"Keep learning, keep building, and keep improving."*
