@@ -1,29 +1,22 @@
-# 👋 Hi everyone, I'm Quang Huy — or Zeus for English name
+# 👋 Hi everyone, I'm Nguyen Van Quyen
 
 ---
 
 ## 🎯 Objective:
-AI Engineer with **1.5 years of practical experience** in **NLP and Generative AI**, specializing in building **chatbots**, **retrieval-augmented generation (RAG) systems**, and **multi-agent workflows**.  
-Skilled in deploying end-to-end AI solutions that bridge research and real-world application.  
-Driven by a long-term goal to become a **Senior AI Engineer** by developing scalable, high-impact systems that solve complex problems.
+
 
 ---
 
 ## 👨‍💻 About me:
-- 📚 Graduated from **Ho Chi Minh City University of Technology and Education (Đại học Sư phạm Kỹ thuật TP.HCM)**, majoring in **Data Engineering**, with an excellent **GPA of 3.61**
-- 🎯 Goal: To become a **Senior AI Engineer** within the next 3 years — currently a **Junior AI Engineer**, with **1.5 years of experience** in **Generative AI**
-- 💬 Ask me about **Anh Kỹ Sư AI**
-- 📫 Reach me at: **hdang1696@gmail.com**
-
----
-
-## 🧪 Open Source Model:
-- 🔗 Embedding Model: [DEk21_hcmute_embedding on Hugging Face](https://huggingface.co/)
+- 📚 Graduated 
+- 🎯 Goal: 
+- 💬 Ask me about 
+- 📫 Reach me at: 
 
 ---
 
 ## 🌐 Connect with me:
-- 💼 Facebook: [huyhocdata](https://www.facebook.com/100012067900880)
+- 💼 Facebook: 
 
 ---
 
