@@ -9,14 +9,8 @@ As an AI Engineer Intern, I aim to strengthen my skills in researching real-worl
 
 ## About me:
 - 📚 I'm a third year student at FPT University Ha Noi, majoring in Artificial Intelligence, with an excellent GPA of 9.26.
-- 🎯 Goal: 
-- 💬 Ask me about 
-- 📫 Reach me at: 
-
----
-
-## Connect with me:
-- 💼 Facebook: 
+- 💼 Facebook: https://www.facebook.com/nguyen.quyen.354116
+- 📫 Gmail: vanquyen9900@gmail.com
 
 ---
 
