@@ -2,13 +2,12 @@
 
 ---
 
-## Objective:
-
+## Objective: As an AI Engineer Intern specializing in NLP, I aim to strengthen my skills in researching real-world AI problems, developing and training models, and optimizing model performance on text data, while contributing to the company’s development of intelligent AI products.My short-term goal is to become a full-time Fresher AI Engineer after the internship by strengthening my practical skills in model development and deployment. Within the next 1 to 1.5 years, I aim to grow into a Junior AI Engineer, specializing in applied NLP and Generative AI research.
 
 ---
 
 ## About me:
-- 📚  I graduated from FPT University Ha Noi, majoring in Artificial Intelligence, with an excellent GPA of 3.6
+- 📚 I'm a third year student at FPT University Ha Noi, majoring in Artificial Intelligence, with an excellent GPA of 9.26
 - 🎯 Goal: 
 - 💬 Ask me about 
 - 📫 Reach me at: 
