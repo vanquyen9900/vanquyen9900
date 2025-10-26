@@ -2,12 +2,12 @@
 
 ---
 
-## 🎯 Objective:
+## Objective:
 
 
 ---
 
-## 👨‍💻 About me:
+## About me:
 - 📚  I graduated from FPT University Ha Noi, majoring in Artificial Intelligence, with an excellent GPA of 3.6
 - 🎯 Goal: 
 - 💬 Ask me about 
@@ -15,12 +15,12 @@
 
 ---
 
-## 🌐 Connect with me:
+## Connect with me:
 - 💼 Facebook: 
 
 ---
 
-## 🧠 Tech Stack:
+## Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
