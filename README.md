@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About me:
-- 📚 Graduated 
+- 📚  I graduated from FPT University Ha Noi, majoring in Artificial Intelligence, with an excellent GPA of 3.6
 - 🎯 Goal: 
 - 💬 Ask me about 
 - 📫 Reach me at: 
