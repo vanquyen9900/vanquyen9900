@@ -3,7 +3,9 @@
 ---
 
 ## Objective: 
-As an AI Engineer Intern, I aim to strengthen my skills in researching real-world AI problems, developing and training models, and optimizing model performance, while contributing to the company’s development of intelligent AI products. My short-term goal is to become a full-time Fresher AI Engineer after the internship by strengthening my practical skills in model development and deployment. Within the next 1 to 1.5 years, I aim to grow into a Junior AI Engineer, specializing in applied NLP and Generative AI research.
+I aim to strengthen my practical AI research skills and contribute to AI products, with the goal of
+becoming a fresher AI Engineer after the internship. Within the next 1 to 1.5 years, I aim to grow into a
+Junior AI Engineer specializing in applied NLP and Generative AI research.
 
 ---
 
